@@ -1,0 +1,19 @@
+/*Exercise #7*/
+img {
+  transition: 0.3s ease;
+}
+
+/*Exercise #8*/
+.fade {
+  opacity: 0;
+}
+
+/*Exercise #14*/
+#overlay {
+  position: fixed;
+  background-color: red;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+}
